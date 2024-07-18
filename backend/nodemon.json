@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "jystory123587",
+    "DB_PASSWORD": "jy123587JY",
+    "DB_NAME": "ud_MERN",
+    "GOOGLEMAP_API_KEY": "AIzaSyCLi7CyjQI6m_IbD2bErChxUNdAFFszmrw",
+    "JWT_PRIVATE_KEY": "supersecret_dont_share"
+  }
+}
